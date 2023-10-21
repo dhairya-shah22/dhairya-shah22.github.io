@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dhairya Shah"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Dhairya Shah"
 description              : &description "personal description"
