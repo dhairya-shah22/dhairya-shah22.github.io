@@ -5,6 +5,7 @@
 .container div {
     width:100%;
 }
+
 .container .header {
     background-color:#d3d3d3;
     padding: 2px;
@@ -14,3 +15,4 @@
 .container .content {
     display: none;
     padding : 5px;
+}
