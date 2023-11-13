@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the digital abode of Dhairya Shah; your host!
+**_Welcome to the digital abode of Dhairya Shah; your host!_**
 
 An illustrious alumnus of Imperial College London, I graduated with distinction in Applied Mathematics. My academic journey is a testament towards my dedication and passion for mathematics and physics.
 
