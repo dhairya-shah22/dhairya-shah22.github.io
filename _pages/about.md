@@ -26,5 +26,5 @@ Beyond the classroom, I immerse myself in the realms of physics and cosmology. M
 ## A Vision for the Future 
 At the heart of my ambitions lies a noble goal – to utilize my expertise in maths and physics to make our world a safer, more beautiful, and happier place. 
 
-# Join me in my Journey 
+## Join me in my Journey 
 Explore this site to discover more about my projects, research, and my continuous journey in the fascinating world of mathematics and theoretical physics. Together, let us explore the universe!
