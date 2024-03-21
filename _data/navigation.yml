@@ -1,20 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Gratitude Page"
+    main:
+  - title: Education
+    url: /education/
+  - title: Publications and Theses
+    url: /publications_and_theses/
+  - title: Teaching Experience
+    url: /teaching_experience/
+  - title: Academic Engagements
+    url: /academic_engagements/
+  - title: Gratitude
     url: /gratitude/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    # url: /cv/
-    url: /files/Academic_CV.pdf
+  - title: Public Engagements/Talks
+    url: /public_engagements_talks/
+  - title: Media Interactions
+    url: /media_interactions/
+  - title: CV
+    url: /cv/  
+    #url: /files/Academic_CV.pdf
+
+  
