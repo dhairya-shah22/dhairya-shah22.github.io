@@ -6,8 +6,6 @@ permalink: /education/
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
 
-  <h2 style="font-size: 24px; font-weight: bold; color: #333; margin-bottom: 10px;">Education</h2>
-
   <hr style="border: 1px solid #ddd;">
 
   <div style="margin-bottom: 20px;">
