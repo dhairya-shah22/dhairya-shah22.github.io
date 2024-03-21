@@ -18,17 +18,17 @@
   
     // Medium screens (577px to 992px)
     @include breakpoint(md) {
-      max-width: 90%; // Adjust this as per your design
+      max-width: 100%; // Adjust this as per your design
     }
   
     // Large screens (993px to 1200px)
     @include breakpoint(lg) {
-      max-width: 80%; // Assuming $x-large is defined for large screens
+      max-width: 100%; // Assuming $x-large is defined for large screens
     }
   
     // Extra large screens (1201px and above)
     @include breakpoint(xl) {
-      max-width: $x-large; // Adjust this as per your design
+      max-width: 100%; // Adjust this as per your design
     }
   }
   
