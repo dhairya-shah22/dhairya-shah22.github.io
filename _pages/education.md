@@ -22,8 +22,7 @@ permalink: /education/
     </div>
 
     <div class="education-item">
-        <h3>Bachelor of Science (Hons.) in Mathematics</h3>
-        <h3>Diploma in Liberal Studies</h3>
+        <h3>Bachelor of Science (Hons.) in Mathematics and Diploma in Liberal Studies</h3>
         <p class="education-details">
             <strong>Pandit Deendayal Energy University (PDEU), India</strong><br>
             <em>July 2017 - June 2021</em><br>
