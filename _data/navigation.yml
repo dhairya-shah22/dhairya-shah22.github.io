@@ -1,6 +1,5 @@
 # main links links
 main:
-    main:
   - title: Education
     url: /education/
   - title: Publications and Theses
@@ -15,8 +14,7 @@ main:
     url: /public_engagements_talks/
   - title: Media Interactions
     url: /media_interactions/
-  - title: CV
-    url: /cv/  
-    #url: /files/Academic_CV.pdf
+  - title: CV #url: /cv/  
+    url: /files/Academic_CV.pdf
 
   
