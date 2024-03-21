@@ -5,13 +5,13 @@ main:
   - title: Publications and Theses
     url: /publications_and_theses/
   - title: Teaching Experience
-    url: /teaching_experience/
+    url: /teaching/
   - title: Academic Engagements
-    url: /academic_engagements/
+    url: /academic/
   - title: Gratitude
     url: /gratitude/
   - title: Public Engagements/Talks
-    url: /public_engagements_talks/
+    url: /talks/
   - title: News Interviews
     url: /news/
   - title: CV #url: /cv/  
