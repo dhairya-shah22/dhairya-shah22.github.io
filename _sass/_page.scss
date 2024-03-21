@@ -28,7 +28,7 @@
   
     // Extra large screens (1201px and above)
     @include breakpoint(xl) {
-      max-width: $xx-large; // Adjust this as per your design
+      max-width: $x-large; // Adjust this as per your design
     }
   }
   
