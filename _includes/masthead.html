@@ -10,16 +10,10 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-            {% else %}
+              {% else %}
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-          <!-- Add dynamic links for subpages -->
-          {% for page in site.pages %}
-            {% if page.layout == 'single' %}
-              <li class="masthead__menu-item"><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-            {% endif %}
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
