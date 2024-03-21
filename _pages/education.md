@@ -43,7 +43,6 @@ permalink: /education/
 </style>
 
 <div class="education-section">
-  <div class="education-title">Education</div>
 
   <div class="education-item">
     <div class="education-subtitle">Master of Science in Applied Mathematics</div>
