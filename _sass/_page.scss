@@ -2,19 +2,36 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
-#main {
-  @include container;
-  @include clearfix;
-  margin-top: 2em;
-  padding-left: 1em;
-  padding-right: 1em;
-  animation: intro 0.3s both;
-  animation-delay: 0.35s;
-
-  @include breakpoint($x-large) {
-    max-width: $x-large;
+   #main {
+    @include container;
+    @include clearfix;
+    margin-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    animation: intro 0.3s both;
+    animation-delay: 0.35s;
+  
+    // Small screens (up to 576px)
+    @include breakpoint(sm) {
+      max-width: 100%; // Adjust this as per your design
+    }
+  
+    // Medium screens (577px to 992px)
+    @include breakpoint(md) {
+      max-width: 90%; // Adjust this as per your design
+    }
+  
+    // Large screens (993px to 1200px)
+    @include breakpoint(lg) {
+      max-width: 80%; // Assuming $x-large is defined for large screens
+    }
+  
+    // Extra large screens (1201px and above)
+    @include breakpoint(xl) {
+      max-width: $xx-large; // Adjust this as per your design
+    }
   }
-}
+  
 
 .page {
   @include breakpoint($large) {
@@ -147,7 +164,7 @@
     }
 
     .page__lead {
-      max-width: 100%;
+      max-width: $medium;
     }
 
     .page__title {
