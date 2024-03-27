@@ -16,6 +16,25 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    <nav>
+      <ul class="main-menu">
+        {% for item in site.navigation.main %}
+          {% if item.sublinks %}
+            <li class="dropdown">
+              <a href="{{ item.url }}">{{ item.title }}</a>
+              <ul class="dropdown-menu">
+                {% for sublink in item.sublinks %}
+                  <li><a href="{{ sublink.url }}">{{ sublink.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% else %}
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+
     {{ content }}
 
     <div class="page__footer">
