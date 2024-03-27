@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: Education
     url: /education/
@@ -12,11 +12,20 @@ main:
     url: /gratitude/
   - title: Resources
     url: /resources/
+    sublinks:
+      - title: Free/Public Domain Books
+        url: /resources/books/
+      - title: Academic Search Engines and Repositories
+        url: /resources/research/
+      - title: Personalised Resources
+        url: /resources/personalised/
+      - title: My Humble Resources
+        url: /resources/humble/
   - title: Public Engagements/Talks
     url: /talks/
   - title: News Interviews
     url: /news/
-  - title: CV #url: /cv/  
+  - title: CV
     url: /cv/
 
   
