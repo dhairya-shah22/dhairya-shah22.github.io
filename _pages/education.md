@@ -22,7 +22,7 @@ permalink: /education/
   </div>
 
   <div style="margin-bottom: 20px;">
-    <h3 style="font-size: 20px; font-style: italic; color: #555; margin-bottom: 10px;">Bachelor of Science (Hons.) in Mathematics</h3>
+    <h3 style="font-size: 20px; font-style: italic; color: #555; margin-bottom: 10px;">Bachelor of Science (Hons.) in Mathematics and Diploma in Liberal Studies</h3>
     <p><strong>Pandit Deendayal Energy University (PDEU), India</strong><br>
     <em>July 2017 - June 2021</em><br>
     <strong>Performance:</strong> CPI: 9.10/10</p>
