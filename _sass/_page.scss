@@ -30,6 +30,10 @@
     @include breakpoint(xl) {
       max-width: 100%; // Adjust this as per your design
     }
+    
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
   }
   
 
@@ -40,19 +44,9 @@
       @include suffix(2 of 12);
     }
   
-    /*
-    .sidebar {
-      padding: 20px;  Adjust this value to reduce padding 
-      
-    }
-    */
-  
     .page__inner-wrap {
       @include full();
-      padding: 0px; /* Adjust this value to reduce padding */
-      /*margin-left: 20px; /* Adjust this value as needed */
-      /*margin-right: 20px; /* Adjust this value as needed */
-      
+  
       .page__content,
       .page__meta,
       .page__share {
