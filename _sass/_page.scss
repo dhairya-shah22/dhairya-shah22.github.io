@@ -13,7 +13,7 @@
   
     // Small screens (up to 576px)
     @include breakpoint(sm) {
-      max-width: 90; // Adjust this as per your design
+      max-width: 90%; // Adjust this as per your design
     }
   
     // Medium screens (577px to 992px)
@@ -69,8 +69,6 @@
 
   h2 {
     padding-bottom: 0.5em;
-    padding-left: 100px;
-    padding-right: 100px;
     border-bottom: 1px solid $border-color;
   }
 
