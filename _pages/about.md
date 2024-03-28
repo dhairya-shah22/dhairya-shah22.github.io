@@ -8,23 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-**_Welcome to the digital abode of Dhairya Shah; your host!_**
+**_Hello! Welcome to my digital abode._**
 
-An illustrious alumnus of Imperial College London, I graduated with distinction in Applied Mathematics. My academic journey is a testament towards my dedication and passion for mathematics and physics.
+I am Dhairya Shah, a Mathematics’ enthusiast, an inquisitive, curious and questioning child at heart and an MSc in Applied Mathematics from Imperial College London, UK.
 
 ## Academic Excellence
 
-My educational odyssey began in Gandhinagar, Gujarat in India, where I studied Bachelor of Science in Mathematics along with research, a four-year full-time degree with a Diploma in Liberal Arts. During my tenure, not only did I excel academically but also emerged as a dynamic leader in various social and academic arenas, bringing accolades to my university, PDEU.
+<div style="text-align: justify;"> 
+My educational odyssey began in Gandhinagar, Gujarat in India, studying a 4-year Bachelor of Science in Mathematics along with conducting research, with a Diploma in Liberal Arts. During my tenure, not only did I perform well academically but also emerged as a leader in various social and academic arenas, bringing accolades to my university, PDEU from time to time.
+</div>
 
 ## Teaching and Research
 
-With over two years experience in teaching Mathematics at the undergraduate level, I blend my knowledge with an engaging teaching style, inspiring the next generation of STEM students. I have, to my credit, over five Scopus, ESCI and SCIE indexed research papers where I introduced ingenious theories in Mathematical sciences. 
+<div style="text-align: justify;"> 
+With over three years experience in teaching Mathematics at the undergraduate level, I blend my knowledge with an engaging teaching style, attempt at inspiring the next generation of STEM students. To that effect, my research portfolio includes  over five Scopus, ESCI and SCIE indexed research papers which introduced theories in Mathematical sciences.
+</div>
 
-## A Cosmic Journey in Physics  
-Beyond the classroom, I immerse myself in the realms of physics and cosmology. My fascination with reimagining fundamental principles like gravity from unique perspectives is not just a pastime; it is a passionate quest for deeper understanding into the theories of cosmology. A voracious reader and avid learner, my interest in cosmology has been a lifelong pursuit (life = 2/3 of my current existence LOL). My dream is to contribute significantly to the scientific fields of mathematics and theoretical physics. 
+## A Cosmic Journey  
+<div style="text-align: justify;">
+Beyond the classroom, my passion lies in exploring the vastness in the realms of physics and cosmology. I have a deep fascination with reimagining fundamental principles like gravity from unexplored perspectives; my thirst is to gain deeper understanding into the theories of cosmology. Well, my interest in cosmology has been a lifelong pursuit (life = 2/3 of my current existence LOL). My dream is to contribute to the current research in the scientific fields of mathematics and theoretical physics.
+</div>
 
 ## A Vision for the Future 
-At the heart of my ambitions lies a goal – to utilize my expertise in maths and physics to make our world more meaningful and impactful for the upcoming generations. 
+<div style="text-align: justify;">
+At the heart of my all my young ambitions, lies a vision, an aim – to leverage, explore and utilise my learning in physical sciences to make our world more inclusive, safer and impactful place to live in as one big happy family.
+</div>
 
 ## Join me in my Journey 
-Explore this site to discover more about my projects, research, and my continuous journey in the fascinating world of mathematics and theoretical physics. Together, let us explore the universe!
+<div style="text-align: justify;">
+Come along and explore the world from the eyes of a young, emerging researcher, and discover more about the projects, research, and the journey in the fascinating world of mathematics and theoretical physics. 
+</div>
+
+**_Together, let us explore the mysteries universe!_**
