@@ -6,8 +6,8 @@
     @include container;
     @include clearfix;
     margin-top: 2em;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding-left: 10em;
+    padding-right: 10em;
     animation: intro 0.3s both;
     animation-delay: 0.35s;
   
@@ -28,7 +28,7 @@
   
     // Extra large screens (1201px and above)
     @include breakpoint(xl) {
-      max-width: 90%; // Adjust this as per your design
+      max-width: 100%; // Adjust this as per your design
     }
   }
   
