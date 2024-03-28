@@ -36,7 +36,8 @@ At the heart of my all my young ambitions, lies a vision, an aim – to leverage
 
 ## Join me in my Journey 
 <div style="text-align: justify;">
-Come along and explore the world from the eyes of a young, emerging researcher, and discover more about the projects, research, and the journey in the fascinating world of mathematics and theoretical physics. 
-</div>
+Come along and explore the world from the eyes of a young, emerging researcher, and discover more about the projects, research, and the journey in the fascinating world of mathematics and theoretical physics.
+</div><br>
+
 
 **_Together, let us explore the mysteries universe!_**
