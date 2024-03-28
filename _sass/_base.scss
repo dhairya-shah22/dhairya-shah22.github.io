@@ -7,6 +7,21 @@ html {
   min-height: 100%;
   margin-left: 100px;
   margin-right: 100px;
+  
+  @media (max-width: 768px) { /* Phones and smaller screens */
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  @media (min-width: 769px) and (max-width: 1024px) { /* Tablets */
+    margin-left: 50px; /* Adjust margin for tablets */
+    margin-right: 50px; /* Adjust margin for tablets */
+  }
+
+  @media (min-width: 1025px) { /* Larger screens */
+    margin-left: 100px; /* Default margin for larger screens */
+    margin-right: 100px; /* Default margin for larger screens */
+  }
 }
 
 body {
