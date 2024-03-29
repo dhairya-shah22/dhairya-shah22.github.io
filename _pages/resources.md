@@ -13,3 +13,4 @@ Welcome to the Resources section! Here, you'll find valuable materials and tools
 - [Research](https://drshah.me/resources/research/) - List of websites with Open Access Articles
 - [Personalised](https://drshah.me/resources/personalised/) - Resources which I used for my progress
 - [My Humble Resources](https://drshah.me/resources/humble/) - My notes, repos and projects
+- [Tools](https://drshah.me/resources/tools/) - The list of extremely helpful (mostly) FOSS tools
