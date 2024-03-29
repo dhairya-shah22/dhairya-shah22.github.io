@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Publications"
-permalink: /publications/
+title: "Publications and Theses"
+permalink: /academics/publications/
 author_profile: true
 ---
 

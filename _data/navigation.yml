@@ -1,30 +1,44 @@
 # main links
 main:
-  - title: Education
-    url: /education/
-  - title: Publications and Theses
-    url: /publications/
+  - title: Academics
+    url: /academics/
+    sublinks:
+      - title: Education
+        url: /academics/education/
+      
+      - title: Publications and Theses
+        url: /academics/publications/
+      
+      - title: Academic Engagements
+        url: /academics/engagements/
+  
   - title: Teaching Experience
     url: /teaching/
-  - title: Academic Engagements
-    url: /academic/
+  
   - title: Gratitude
     url: /gratitude/
+  
   - title: Resources
     url: /resources/
     sublinks:
       - title: Free/Public Domain Books
         url: /resources/books/
+      
       - title: Academic Search Engines and Repositories
         url: /resources/research/
+      
       - title: Personalised Resources
         url: /resources/personalised/
+      
       - title: My Humble Resources
         url: /resources/humble/
+  
   - title: Public Engagements/Talks
     url: /talks/
+  
   - title: News Interviews
     url: /news/
+  
   - title: CV
     url: /cv/
 

@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Academic Engagements
-permalink: /academic/
+permalink: /academics/engagements/
 ---

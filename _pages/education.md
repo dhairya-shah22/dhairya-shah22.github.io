@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-permalink: /education/
+permalink: /academics/education/
 ---
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
