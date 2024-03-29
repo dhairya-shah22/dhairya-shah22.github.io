@@ -34,3 +34,5 @@ I had the honor of serving as the Head of the Associate and Logistics Committee 
 
 <div style="text-align: justify;"> 
 In 2020, I assumed the role of the Associate Committee Head for the First International Conference MMCITRE. Together with my team, we endeavored to create a welcoming and enriching environment for presenters and attendees alike. Despite the inherent challenges of organizing a conference, we were able to deliver a memorable event that garnered appreciation from all stakeholders involved.
+
+
