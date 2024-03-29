@@ -32,6 +32,9 @@ main:
       
       - title: My Humble Resources
         url: /resources/humble/
+      
+      - title: Crucial Digital Tools
+        url: /resources/tools/
   
   - title: Public Engagements/Talks
     url: /talks/
