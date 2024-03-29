@@ -41,4 +41,4 @@ Come along and explore the world from the eyes of a young, emerging researcher, 
 </div><br>
 
 
-**_Together, let us explore the mysteries universe!_**
+**_Together, let us explore the mysteries of the universe!_**
