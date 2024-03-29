@@ -4,10 +4,12 @@ title: Education
 permalink: /academics/education/
 ---
 
+
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-
+  
+  <strong><h2>Education</h2></strong>
+  
   <hr style="border: 1px solid #ddd;">
-
   <div style="margin-bottom: 20px;">
     <h3 style="font-size: 20px; font-style: italic; color: #555; margin-bottom: 10px;">Master of Science in Applied Mathematics</h3>
     <p><strong>Imperial College London, United Kingdom</strong><br>
