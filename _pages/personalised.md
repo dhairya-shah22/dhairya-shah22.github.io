@@ -21,9 +21,9 @@ In my humble opinion, the Cambridge Tripos is the most prestigious Mathematics p
 
 ## Physics
 
-### 1. Triposs Notes (Again):
+### 1. Tripos Notes (Again):
 
-[Prof. David Tong's material](https://www.damtp.cam.ac.uk/user/tong/teaching.html) and [problem sheets](https://duckduckgo.com/?q=Prof+David+Tong+problem+sheets&ia=web) is a combination that will get you through most of the concepts of undergraduate physics and many graduate level concepts.
+[Prof. David Tong's material](https://www.damtp.cam.ac.uk/user/tong/teaching.html) and [problem sheets](https://duckduckgo.com/?q=Prof+David+Tong+problem+sheets&ia=web) is a combination that will get you through most of the concepts of undergraduate physics as well as many advanced graduate level concepts.
 
 *Word of caution:* These modules focus heavily on core mathematical concepts such as Analysis, Group Theory, Riemannian Geometry etc. to understand the physical concepts. As Sir Roger Penrose once said **One can think [Physics] in terms of Equations or in terms of Geometry.** In my opinion, these notes are the majorly thinking in terms of equations. Coming from a Mathematics background, this approach has helped me a lot. It may not help you if you are someone who majorly focuses on physical idea, visuaulisation and geometry. For that I would suggest set [2].
 
