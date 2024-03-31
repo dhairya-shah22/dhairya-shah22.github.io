@@ -84,11 +84,17 @@ author:
   avatar           : "main_page.jpeg"
   bio              : "Applied Mathematics Graduate from Imperial College London"
   location         : "London, United Kingdom"
-  employer         :
-  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ocwAZV8AAAAJ&hl=en&oi=ao"
   email            : contact@drshah.me
   researchgate     : "https://www.researchgate.net/profile/Dhairya-Shah-18"
+  github           : "dhairya-shah22"
+  signal           : "https://signal.me/#eu/irdorGIukyc7Gz8n648RzyfslZuwUsgwuKfmu8ChpQ9fVgVhG6BDAK2xoQoQKXZ5"
+  instagram        : "cosmos_drshah"
+  linkedin         : "dshah08"
+  orcid            : "https://orcid.org/0000-0002-4496-7737"
+  twitter          : "Cosmos_drshah"
+  employer         :
+  pubmed           :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,21 +102,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dhairya-shah22"
-  signal           : "https://signal.me/#eu/irdorGIukyc7Gz8n648RzyfslZuwUsgwuKfmu8ChpQ9fVgVhG6BDAK2xoQoQKXZ5"
   google_plus      :
   keybase          :
-  instagram        : "cosmos_drshah"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "dshah08"
-  orcid            : "https://orcid.org/0000-0002-4496-7737"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
   vine             :
   weibo            :
   xing             :
