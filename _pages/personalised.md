@@ -32,7 +32,7 @@ In my humble opinion, the Cambridge Tripos is the most prestigious Mathematics p
 
 [Stanford](https://www.youtube.com/@stanford) have given us this exceptional lecture series by Prof Leonard Susskind. His approach, for me, has felt more focused on the intuitive ideas of the phenomena in order to build the required mathematical framework. There are official playlist by Stanford for each subject, such as [Classical Mechanics](https://www.youtube.com/playlist?list=PL47F408D36D4CF129), [Special Relativity](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA), etc.
 
-However, a couple of people on YouTube has saved all the lectures in one place. So, for the ease of sharing, here are the said unofficial playlists of Stanford Susskind Lectures:
+However, a couple of people on YouTube have saved all the lectures in one place. So, for the ease of sharing, here are the said unofficial playlists of Stanford Susskind Lectures:
 
 1. [Set 1](https://www.youtube.com/playlist?list=PLLjeznqO-C0AVy5P39Hbybl0ew_03IkIx)
 2. [Set 2](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)
