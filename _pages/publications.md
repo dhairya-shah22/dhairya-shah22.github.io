@@ -2,7 +2,6 @@
 layout: page
 title: "Publications and Theses"
 permalink: /academics/publications/
-author_profile: true
 ---
 
 {% if author.googlescholar %}
