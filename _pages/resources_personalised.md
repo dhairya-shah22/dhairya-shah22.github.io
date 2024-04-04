@@ -17,6 +17,7 @@ In my humble opinion, the Cambridge Tripos is the most prestigious Mathematics p
   2. [Dr. Dexter Chua](https://dec41.user.srcf.net/) 
   3. [Mr David Bai](https://zb260.user.srcf.net/notes/)
   4. [Sky Wilshaw](https://thirdsgames.co.uk/maths.html)
+  5. [Really Old Notes On Archimeaneans Website](https://kkk25.user.srcf.net/notes.php)
 
 
 ## Physics
