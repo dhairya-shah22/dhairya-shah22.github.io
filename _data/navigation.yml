@@ -18,6 +18,9 @@ main:
   - title: Gratitude
     url: /gratitude/
   
+  - title: Help
+    url: /help/
+  
   - title: Resources
     url: /resources/
     sublinks:
