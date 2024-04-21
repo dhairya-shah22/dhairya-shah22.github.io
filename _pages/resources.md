@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## Resources
 <div style="text-align: justify;"> 
-Welcome to the Resources section! Here, you'll find valuable materials and tools carefully curated to aid your academic journey. As an ardent supporter of free learning, most of the resources listed on this page will provid freely available material, be it Free/Public Domain Books or Open Access / Pre-print Articles or Free/Libre Open Source Softwares (FLOSS).
+Welcome to the Resources section! Here, you'll find valuable materials and tools carefully curated to aid your academic journey. As an ardent supporter of free learning, most of the resources I have listed on this page will provid freely available material, be it Free/Public Domain Books or Open Access / Pre-print Articles or Free/Libre Open Source Softwares (FLOSS).
 </div>
 
 - [Books](https://drshah.me/resources/books/) - List of websites with thousand of books
