@@ -14,7 +14,6 @@ redirect_from:
 I am Dhairya Shah, a Mathematics enthusiast, an inquisitive, curious and questioning child at heart and a graduate in MSc in Applied Mathematics from Imperial College London, UK.
 </div>
 
-
 ## Academic Excellence
 <div style="text-align: justify;"> 
 My educational odyssey began in Gandhinagar, Gujarat in India, studying a 4-year Bachelor of Science in Mathematics along with conducting research, with a Diploma in Liberal Studies. During my tenure, not only did I perform well academically but also emerged as a leader in various social and academic arenas, bringing accolades to my university, PDEU from time to time.
