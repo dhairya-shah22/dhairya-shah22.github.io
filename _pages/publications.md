@@ -9,9 +9,9 @@ permalink: /academics/publications/
 
 - [Undergraduate](https://drive.proton.me/urls/QSWRXSJ8Y0#vcWKqnAsobnF)
 
-<div style="text-align: justify;">
-
 **Abstract**
+
+<div style="text-align: justify;">
 
 The concept of equation has been part of our daily lives whether we notice it or not - from equations which allow buildings and bridges to be built to equations which aid in the understanding of the cosmos and help in precise GPS navigation.
 
@@ -24,9 +24,10 @@ Different theoretical results and observations have also been utilised to compar
 </div>
 
 - [Postgraduate](https://drive.proton.me/urls/FARC4Q83PG#XnzkI6L6YDPG)
-<div style="text-align: justify;">
 
 **Abstract**
+
+<div style="text-align: justify;">
 
 The electrowetting phenomenon has attracted attention due to its applications in several industrial and engineering fields. Comprehending interaction between factors such as the shape of the droplet, as well as the distribution of electric potential around the droplet, is crucial in effectively utilizing this phenomena for the advancement of technologies.
 
@@ -37,7 +38,7 @@ By making these assumptions, we deduce a condition for the eigenvalue near the t
 
 ## Selected Publications
 
-You can find all my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can find all my articles on <u><a href="https://scholar.google.com/citations?user=ocwAZV8AAAAJ">my Google Scholar profile</a>.</u>
 
 1. D. Shah, and M. Sahni, “[DMS way of finding the optimum number of iterations for fixed point iteration method](https://www.iaeng.org/publication/WCE2018/WCE2018_pp87-89.pdf)” Lecture Notes in Engineering and Computer Science: Proceedings of the World Congress on Engineering 2018, 4-6 July, 2018, London, U.K., pp. 87-89.
 
