@@ -11,7 +11,7 @@ redirect_from:
 **_Hello! Welcome to my digital abode._**
 
 <div style="text-align: justify;"> 
-I am Dhairya Shah, a Mathematics’ enthusiast, an inquisitive, curious and questioning child at heart and an MSc in Applied Mathematics from Imperial College London, UK.
+I am Dhairya Shah, a Mathematics enthusiast, an inquisitive, curious and questioning child at heart and a graduate in MSc in Applied Mathematics from Imperial College London, UK.
 </div>
 
 
