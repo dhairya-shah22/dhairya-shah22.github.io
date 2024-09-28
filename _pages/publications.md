@@ -7,7 +7,7 @@ permalink: /academics/publications/
 
 ## Theses
 
-- [Undergraduate](https://drive.proton.me/urls/QSWRXSJ8Y0#vcWKqnAsobnF)
+- Undergraduate Thesis - [On Numerical Methods for Real Solutions of One Variable Nonlinear Equations](https://drive.proton.me/urls/QSWRXSJ8Y0#vcWKqnAsobnF)
 
 **Abstract**
 
@@ -40,7 +40,7 @@ Subsequently, three novel cubic convergent methods have been developed. These me
 Different theoretical results and observations have also been utilised to compare all types of available iterative schemes. And based on the observations, comparisons and theoretical results, we propose a hypothesis that the fixed point based family is the most significant of all the four families discussed in this report
 </div>
 
-- [Postgraduate](https://drive.proton.me/urls/FARC4Q83PG#XnzkI6L6YDPG)
+- Postgraduate - [Local Solution to Electro-Capillary Phenomenon near Sharp Corner](https://drive.proton.me/urls/FARC4Q83PG#XnzkI6L6YDPG)
 
 **Abstract**
 
