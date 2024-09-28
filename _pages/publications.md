@@ -7,7 +7,7 @@ permalink: /academics/publications/
 
 ## Theses
 
-- Undergraduate Thesis - [On Numerical Methods for Real Solutions of One Variable Nonlinear Equations](https://drive.proton.me/urls/QSWRXSJ8Y0#vcWKqnAsobnF)
+- Undergraduate - [On Numerical Methods for Real Solutions of One Variable Nonlinear Equations](https://drive.proton.me/urls/QSWRXSJ8Y0#vcWKqnAsobnF)
 
 **Abstract**
 
