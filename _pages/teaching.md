@@ -5,7 +5,29 @@ permalink: /teaching/
 ---
 
 
-## Teaching Experience
+## Teaching Experiences
+
+### Team Up
+**Volunteer Tutor (KS2-KS4 Mathematics)**
+*Duration: November 2024 - February 2025*
+<div style="text-align: justify;">
+Starting from November 2025, I will be volunteering with [Team Up](https://teamup.org.uk/) as Mathematics tutor at a school in London.
+</div>
+
+### A School in London
+**Graduate Teaching Assistant (Primariliy SEN and Mathematics)**  
+*Duration: September 2024 - Present*
+<div style="text-align: justify;">
+TBA.
+</div>
+
+### Cardinal Hume Centre, London
+**Homework Club Volunteer (Primariliy Mathematics and Science)**  
+*Duration: May 2024 - Present*
+
+<div style="text-align: justify;"> 
+Being passionate about education and empowering students, I am committed to providing personalised support that enhances their learning experiences. At [Cardinal Hume Centre](https://www.cardinalhumecentre.org.uk/), I offer dedicated assistance, one-to one as well as in group, with homework and exam preparation - fostering both confidence and understanding in my students. My teaching encompasses a range of mathematical concepts, including Geometry and Probability, specifically tailored for students up to GCSE level. Furthermore, I prioritise the development of young people's literacy and numeracy skills, ensuring that learning is engaging, relevant, and enjoyable.
+</div>
 
 ### Mathematics and Astronomy Clubs, Pandit Deendayal Energy University (PDEU)
 **Course Facilitator of Mathematical Aspects of Relativity**  
