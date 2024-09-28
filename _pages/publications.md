@@ -16,13 +16,19 @@ permalink: /academics/publications/
 The concept of equation has been part of our daily lives whether we notice it or not - from equations which allow buildings and bridges to be built to equations which aid in the understanding of the cosmos and help in precise GPS navigation.
 </div>
 
+<hr>
+
 <div style="text-align: justify;">
 This dissertation focuses on the numerical solutions of one such subsection of all the available types of equations. A detailed literature survey has been done to understand the patterns of developments and theoretical analyses of different methods. On the basis of which all the available methods are bifurcated in four major families.
 </div>
 
+<hr>
+
 <div style="text-align: justify;">
 Subsequently, three novel cubic convergent methods have been developed. These methods are used to solve real life non-linear equations of one variable. A comparative study has been done that shows that these methods achieve higher accuracy with respect to available schemes of the same kind.
 </div>
+
+<hr>
 
 <div style="text-align: justify;">
 Different theoretical results and observations have also been utilised to compare all types of available iterative schemes. And based on the observations, comparisons and theoretical results, we propose a hypothesis that the fixed point based family is the most significant of all the four families discussed in this report
@@ -36,9 +42,13 @@ Different theoretical results and observations have also been utilised to compar
 The electrowetting phenomenon has attracted attention due to its applications in several industrial and engineering fields. Comprehending interaction between factors such as the shape of the droplet, as well as the distribution of electric potential around the droplet, is crucial in effectively utilizing this phenomena for the advancement of technologies.
 </div>
 
+<hr>
+
 <div style="text-align: justify;">
 The primary objective of this thesis is to study the behaviour of the voltage near the triple contact point, which is the convergence point of interfaces between insulating droplet, the background medium and the dielectric medium, as a potential approach for enhancing the operational efficiency of electrowetting-driven devices, such as electrowetting displays. We begin investigation by asking if we can observe vortices in the voltage, similar to Moffat eddies for the electrowetting problem. We examine the behaviour of the voltage by introducing an ansatz of a pair of complex potentials, along with a few boundary conditions.
 </div>
+
+<hr>
 
 <div style="text-align: justify;">
 By making these assumptions, we deduce a condition for the eigenvalue near the triple contact point. We then validate our eigenvalue condition for contact angle (θ = 0) and θ = π. Next, we proceed to expand our analysis in order to determine the solution to the equation for different angles θ ∈ (0, π), and for ratios of permittivities k ∈ (0, 1). Moreover, in relation to the eigenvalues that have been acquired, we proceed to generate equipotential lines and carefully examine if they exhibit characteristics resembling eddies. Our investigation leads us to the conclusion that there are no eddies present for the eigenvalues (λ) that fulfill all the boundary requirements.
