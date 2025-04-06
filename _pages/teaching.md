@@ -11,14 +11,14 @@ permalink: /teaching/
 **Volunteer Tutor (KS2-KS4 Mathematics)**
 *Duration: November 2024 - February 2025*
 <div style="text-align: justify;">
-Starting from November 2025, I will be volunteering with [Team Up](https://teamup.org.uk/) as Mathematics tutor at a school in London.
+Driven by a commitment to educational equity, I supported Key Stage 3 students through structured, small-group tutoring sessions focused on five core mathematical topics. My approach combined interactive teaching methods with regular assessment to track progress and adapt lessons to individual learning needs. By fostering a collaborative and inclusive learning environment, I helped students build confidence, strengthen their problem-solving skills, and engage more deeply with mathematical concepts.
 </div>
 
-### A School in London
-**Graduate Teaching Assistant (Primariliy SEN and Mathematics)**  
+### The Charter School North Dulwich
+**Maths Graduate Teaching Assistant (SEN and Mathematics)**  
 *Duration: September 2024 - Present*
 <div style="text-align: justify;">
-TBA.
+I provide targeted support to pupils with Special Educational Needs (SEN) from Year Seven to GCSE, using differentiated teaching strategies and small-group interventions. In collaboration with classroom teachers, I adapt learning resources to suit individual needs and ensure inclusive access to the curriculum. I also assist Year Seven pupils in preparing for the UKMT Junior Mathematical Olympiad, guiding them through advanced problem-solving tasks to develop mathematical fluency and resilience.
 </div>
 
 ### Cardinal Hume Centre, London
