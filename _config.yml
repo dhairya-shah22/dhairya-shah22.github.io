@@ -197,6 +197,7 @@ defaults:
       path: ""
       type: posts
     values:
+      permalink: /blog/:year/:title/ #dear future self :month/:day/ upto month or year if you want
       layout: single
       author_profile: true
       read_time: true

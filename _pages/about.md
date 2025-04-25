@@ -1,18 +1,24 @@
 ---
-permalink: /
-title: "About Me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
+permalink: /  
+title: "About Me"  
+excerpt: "About me"  
+author_profile: true  
+redirect_from:  
+  - /about/  
+  - /about.html  
+research_focus: >
+  Quantum Field Theory on Curved Spacetimes:
+  Energy Conditions & Quantum Energy Inequalities
+---  
 **_Hello! Welcome to my digital abode._**
 
 <div style="text-align: justify;"> 
 I am Dhairya Shah, a Mathematics enthusiast, an inquisitive, curious and questioning child at heart and a graduate in MSc in Applied Mathematics from Imperial College London, UK.
 </div>
+
+## Research Focus
+
+Quantum Field Theory on Curved Spacetimes: Energy Conditions & Quantum Energy Inequalities
 
 ## Academic Excellence
 <div style="text-align: justify;"> 

@@ -20,7 +20,10 @@ main:
   
   - title: Help
     url: /help/
-  
+    
+  - title: "Blog"
+    url: "/blog/"
+
   - title: Resources
     url: /resources/
     sublinks:
