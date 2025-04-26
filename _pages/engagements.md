@@ -4,8 +4,6 @@ title: Academic Engagements
 permalink: /academics/engagements/
 ---
 
-## Academic Engagements
-
 ### MSc Programme Representative - Imperial College London, UK
 **Duration:** *October 2022 - September 2023*
 

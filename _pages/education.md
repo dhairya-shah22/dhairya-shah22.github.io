@@ -7,11 +7,8 @@ permalink: /academics/education/
 
 <div>
   
-  <strong><h2>Education</h2></strong>
-  
-  <hr style="border: 1px solid #ddd;">
-  <div style="margin-bottom: 20px;">
-    <h3 style="font-size: 20px;   font-style: italic; margin-bottom: 10px;">Master of Science in Applied Mathematics</h3>
+  <div >
+    <h3 style="font-size: 20px;   font-style: italic;">Master of Science in Applied Mathematics</h3>
     <p><strong>Imperial College London, United Kingdom</strong><br>
     <em>October 2022 - October 2023</em><br>
     <strong>Achievement:</strong> Distinction</p>

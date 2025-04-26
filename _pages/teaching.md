@@ -4,9 +4,6 @@ title: Teaching Experience
 permalink: /teaching/
 ---
 
-
-## Teaching Experiences
-
 ### Team Up
 **Volunteer Tutor (KS2-KS4 Mathematics)**
 *Duration: November 2024 - February 2025*

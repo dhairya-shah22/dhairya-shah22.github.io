@@ -2,7 +2,7 @@
 main:
   - title: Academics
     url: /academics/
-    sublinks:
+    children:
       - title: Education
         url: /academics/education/
       
@@ -12,21 +12,18 @@ main:
       - title: Academic Engagements
         url: /academics/engagements/
   
-  - title: Teaching Experience
-    url: /teaching/
-  
-  - title: Gratitude
-    url: /gratitude/
-  
-  - title: Help
-    url: /help/
+  - title: Teaching 
+    url: /teaching/ 
     
   - title: "Blog"
     url: "/blog/"
+    children:
+      - title: Gratitude
+        url: /gratitude/
 
   - title: Resources
     url: /resources/
-    sublinks:
+    children:
       - title: Free/Public Domain Books
         url: /resources/books/
       
@@ -41,12 +38,18 @@ main:
       
       - title: Crucial Digital Tools
         url: /resources/tools/
-  
-  - title: Public Engagements/Talks
-    url: /talks/
+      
+      - title: Help
+        url: /resources/help/
+      
+      - title: Public Engagements/Talks
+        url: /resources/talks/
+      
+      - title: News Coverage
+        url: /resources/media/
   
   - title: CV
     url: /cv/
 
-  - title: News Coverage
-    url: /media/
+  - title: Contact
+    url: /contact/

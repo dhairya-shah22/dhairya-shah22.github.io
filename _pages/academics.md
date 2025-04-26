@@ -8,8 +8,8 @@ permalink: /academics/
 Welcome the academic section. Below is my academic journey.
 </div>
 
-- [Education](https://drshah.me/academics/education/)
+- [Education](/academics/education/)
 
-- [Publications and Theses](https://drshah.me/academics/publications/)
+- [Publications and Theses](/academics/publications/)
 
-- [Academic Engagements](https://drshah.me/academics/engagements/)
+- [Academic Engagements](/academics/engagements/)

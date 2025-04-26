@@ -38,7 +38,7 @@ Whether you’re a fellow researcher, a student, or simply curious, I’d love t
 - **Collaborate** on theoretical projects  
 - **Explore** lecture notes and blog posts  
 - **Discuss** ideas over Signal or LinkedIn  
-Contact Me: [Signal](https://signal.me/#eu/irdorGIukyc7Gz8n648RzyfslZuwUsgwuKfmu8ChpQ9fVgVhG6BDAK2xoQoQKXZ5) or [LinkedIn](https://www.linkedin.com/in/dshah08)
+[Contact Me](/contact/)
 
 
 **_Together, let us explore the mysteries of the universe!_**
