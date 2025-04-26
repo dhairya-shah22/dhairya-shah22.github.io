@@ -16,7 +16,7 @@ research_focus: >
 I am Dhairya Shah, a Mathematics enthusiast, an inquisitive, curious and questioning child at heart and a graduate in MSc in Applied Mathematics from Imperial College London, UK.
 </div>
 
-## Research Focus
+## Research Aim
 
 Quantum Field Theory on Curved Spacetimes: Energy Conditions & Quantum Energy Inequalities
 

@@ -1,8 +1,10 @@
 ---
-layout: page
-title: "Publications and Theses"
-permalink: /academics/publications/
+layout: single
+title: "Publications"
+permalink: /publications/
 ---
+
+{% include publications.html %}
 
 
 ## Theses
