@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Straggles
-permalink: /help/
+permalink: /resources/help/
 ---
 
-## Stra-ggles
+## Struggels
 
 Struggeling with spellings? Or is it confidence? Feel like a fraud? You definitely are not alone. Check out the resources below. For suggestion on adding more resources email me at: [HELP@drshah.me](mailto:HELP@drshah.me)
 

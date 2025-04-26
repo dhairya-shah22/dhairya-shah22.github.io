@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News Coverage
-permalink: /media/
+permalink: /resources/media/
 ---
 
 ## News Coverage
