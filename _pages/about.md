@@ -30,7 +30,7 @@ My passion is Quantum Field Theory on Curved Spacetimes—examining energy condi
 
 ## Vision & Impact  
 <div style="text-align: justify;">
-I envision a world where deep theoretical insights guide technology for sustainability and inclusivity. By marrying abstract mathematics with physics, I aim to develop models that inform everything from climate simulations to equitable resource distribution.
+I envision a world where deep theoretical insights guide technology for sustainability and inclusivity.
 </div>
 
 ## Let’s Connect  
