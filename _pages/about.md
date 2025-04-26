@@ -10,40 +10,35 @@ research_focus: >
   Quantum Field Theory on Curved Spacetimes:
   Energy Conditions & Quantum Energy Inequalities
 ---  
-**_Hello! Welcome to my digital abode._**
-
 <div style="text-align: justify;"> 
-I am Dhairya Shah, a Mathematics enthusiast, an inquisitive, curious and questioning child at heart and a graduate in MSc in Applied Mathematics from Imperial College London, UK.
+Welcome — I'm Dhairya. From a planetarium docent in rural India to defending my MSc thesis in the same lecture hall where I first presented a paper at 17, my journey has been guided by curiosity and a passion for uncovering nature’s hidden patterns.
 </div>
 
-## Research Aim
+## My Academic Odyssey  
+- **Pandit Deendayal Energy University** (BSc, Mathematics & Liberal Studies): Graduated with a CPI of 9.10/10 while pioneering research in fixed-point theory, fuzzy-set theory, and series of floor & ceiling functions. Maintained an unbroken record of perfect scores (10/10) in all mathematics modules across eight semesters.
+- **Imperial College London** (MSc, Applied Mathematics): Awarded Distinction; Explored electro-capillary phenomena and vortex dynamics under the guidance of Dr. Samuel Brzezicki.
 
-Quantum Field Theory on Curved Spacetimes: Energy Conditions & Quantum Energy Inequalities
-
-## Academic Excellence
+## Teaching & Past Research  
 <div style="text-align: justify;"> 
-My educational odyssey began in Gandhinagar, Gujarat in India, studying a 4-year Bachelor of Science in Mathematics along with conducting research, with a Diploma in Liberal Studies. During my tenure, not only did I perform well academically but also emerged as a leader in various social and academic arenas, bringing accolades to my university, PDEU from time to time.
+I’ve taught over 200 STEM students—from SEN learners at The Charter School North Dulwich to international cohorts at PDEU—by combining storytelling, real-world examples, and rigorous problem-solving. Some of my work has been published in <a href="https://www.mdpi.com/journal/mathematics">MDPI Mathematics</a> and in Springer conference proceedings. My research explores how core mathematical models behave under varied physical conditions.
 </div>
 
-## Teaching and Research
-<div style="text-align: justify;"> 
-With over three years experience in teaching Mathematics at the undergraduate level, I blend my knowledge with an engaging teaching style, attempt at inspiring the next generation of STEM students. To that effect, my research portfolio includes  over five Scopus, ESCI and SCIE indexed research papers which introduced theories in Mathematical sciences.
-</div>
-
-## A Cosmic Journey  
+## Research Aim and Focus  
 <div style="text-align: justify;">
-Beyond the classroom, my passion lies in exploring the vastness in the realms of physics and cosmology. I have a deep fascination with reimagining fundamental principles like gravity from unexplored perspectives; my thirst is to gain deeper understanding into the theories of cosmology. Well, my interest in cosmology has been a lifelong pursuit (life = 2/3 of my current existence LOL). My dream is to contribute to the current research in the scientific fields of mathematics and theoretical physics.
+My current passion is Quantum Field Theory on Curved Spacetimes—examining energy conditions and quantum energy inequalities at singularities. I aim to connect mathematical rigor with physical insight, seeking small quantum “ripples” that reshape our understanding of gravity.
 </div>
 
-## A Vision for the Future 
+## Vision & Impact  
 <div style="text-align: justify;">
-At the heart of my all my young ambitions, lies a vision, an aim – to leverage, explore and utilise my learning in physical sciences to make our world more inclusive, safer and impactful place to live in as one big happy family.
+I envision a world where deep theoretical insights guide technology for sustainability and inclusivity. By marrying abstract mathematics with physics, I aim to develop models that inform everything from climate simulations to equitable resource distribution.
 </div>
 
-## Join me in my Journey 
-<div style="text-align: justify;">
-Come along and explore the world from the eyes of a young, emerging researcher, and discover more about the projects, research, and the journey in the fascinating world of mathematics and theoretical physics.
-</div><br>
+## Let’s Connect  
+Whether you’re a fellow researcher, a student, or simply curious, I’d love to hear from you.  
+- **Collaborate** on theoretical projects  
+- **Explore** lecture notes and blog posts  
+- **Discuss** ideas over Signal or LinkedIn  
+Contact Me: [Signal](https://signal.me/#eu/irdorGIukyc7Gz8n648RzyfslZuwUsgwuKfmu8ChpQ9fVgVhG6BDAK2xoQoQKXZ5) or [LinkedIn](https://www.linkedin.com/in/dshah08)
 
 
 **_Together, let us explore the mysteries of the universe!_**
