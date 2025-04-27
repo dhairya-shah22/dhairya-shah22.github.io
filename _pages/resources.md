@@ -5,7 +5,7 @@ permalink: /resources/
 ---
 ## Resources
 
-<p>Welcome! Below you’ll find a curated collection of **free and open-access materials**—from textbooks and research articles to software tools and my own notes—to support your studies in theoretical physics.</p>
+<p>Welcome! Below you’ll find a curated collection of <strong>free and open-access</strong> materials —from textbooks and research articles to software tools and my own notes—to support your studies in theoretical physics.</p>
 
 <!-- Category Cards -->
 <div class="resource-cards">
