@@ -1,10 +1,27 @@
 ---
 layout: page
-title:  My Humble Resources
+title: My Humble Resources
 permalink: /resources/humble/
 ---
 
-I'm planning to put together a collection of resources that reflect what I have learned during my academic journey. This will include notes from my modules, LaTeX resources, codes, Manim projects, and more. I'll be updating this section gradually as I work over the years.
+<p>Throughout my academic journey, I’ve built a personal library of materials—from lecture notes and LaTeX templates to interactive Manim animations—that reflect the skills and techniques I’ve honed over the years. I’ll update this page regularly as I create new modules, code snippets, and projects.</p>
 
 ### LaTeX Resources
-- A Simple CV Template [(Repo)](https://github.com/dhairya-shah22/dhairya-shah22.github.io/tree/master/CV_Template) [(PDF)](https://drshah.me/files/Academic_CV_Sample.pdf)
+
+- **🏷 A Simple CV Template**  
+  A minimalist, easy-to-customise LaTeX CV template I developed for my own academic résumé, designed to be clean, semantic, and ready for adaptation.  
+  - **Repo:** [GitHub: CV_Template](https://github.com/dhairya-shah22/dhairya-shah22.github.io/tree/master/CV_Template)  
+  - **PDF Demo:** [Academic CV Sample](https://drshah.me/files/Academic_CV_Sample.pdf)
+
+<!-- 
+Future sections to add:
+### Lecture Notes
+- Module-specific notes and problem sheets (Part II General Relativity, Quantum Mechanics, etc.)
+
+### Manim Projects
+- Interactive animations and tutorials illustrating key physics concepts
+
+### Code Repositories
+- Numerical methods, visualisations, and research scripts hosted on GitHub
+
+-->

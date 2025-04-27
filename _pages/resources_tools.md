@@ -4,74 +4,66 @@ title: Crucial Digital Tools
 permalink: /resources/tools/
 ---
 
-# Crucial Digital Tools
+<p>As a proponent of ethical and secure computing, I rely on Free and Open-Source Software (FOSS) tools (and their free/freemium counterparts) that prioritize privacy, performance, and user control. Below is my curated toolkit to help you build a robust, secure, and efficient digital environment—no piracy needed.</p>
 
-These Free and Open-Source Software (FOSS) (or their free or freemium options) will help you seamlessly navigate the worldwide web. They offer minimal digital tracking, enhanced security, and ensure ethical software usage without resorting to piracy.
+## 🐧 Operating Systems
 
-## Operating Systems (Linux):
+### 🔄 Linux Distributions  
+Switching to Linux has unlocked greater stability, automation, and battery life on my machines—all with zero cost and full encryption control. Here are the most beginner-friendly distros I recommend:
 
-Heeding experts' advice, I shifted to Linux which has helped me immensely. Many things in my system are now automated, battery life has significantly increased. I have more storage due to Linux's minimalism. Moreover, my system never hangs abruptly, and the updates are smooth - no irritating blue screens. Unlike the famous OS, in Linux, I can freely encrypt files and directories (even the whole system), which gives me actual control over my material. Any average user can shift to Linux from their current OS. I find the following most beginner-friendly and easy to switch:
+- **[Linux Mint](https://www.linuxmint.com/)** — Known for its intuitive desktop and Windows-like familiarity, making the transition seamless.  
+- **[Fedora](https://getfedora.org/)** — A cutting-edge distro with rapid release cycles and a vibrant community; explore specialized bundles via [Fedora Labs](https://labs.fedoraproject.org/).  
+- **[Debian](https://www.debian.org/)** — The rock-solid foundation behind many distros (including Mint and Ubuntu), renowned for its stability and extensive package repository.
 
-1. [Linux Mint](https://www.linuxmint.com/)
-2. [Fedora](https://fedoraproject.org/)
-3. [Debian](https://www.debian.org/)
+## 💼 Productivity Suites
 
-Further, in Fedora, there is [Fedora Labs](https://labs.fedoraproject.org/), a collection of pre-configured bundles with Free and Open-Source Software (FOSS) tailored for specific purposes. For enthusiastic learners, here are some example suites:
+### 📊 Office & Spreadsheets  
+Why pay for proprietary suites when FOSS alternatives cover all your needs?
 
-- [Astronomy](https://labs.fedoraproject.org/en/astronomy/)
-- [Computational Neuroscience](https://labs.fedoraproject.org/en/comp-neuro/)
-- [Music](https://labs.fedoraproject.org/en/jam/)
-- [Robotics](https://labs.fedoraproject.org/en/robotics/)
+- **[LibreOffice](https://www.libreoffice.org/)** — A fully featured office suite (Writer, Calc, Impress, etc.) that’s compatible with Microsoft formats and backed by a large community.  
+- **[ONLYOFFICE Docs Community](https://www.onlyoffice.com/download-community.aspx)** — A modern, web-based editor with robust collaboration features, released under the AGPL v3 license.
 
-## Tools:
+## 📝 Writing & Typesetting
 
-This section is really tricky. There are many tools that many FOSS advocates would suggest. Here are my recommendations:
+### ✒️ LaTeX  
+For professional-grade documents—theses, articles, slides—LaTeX is unparalleled in handling complex mathematics, consistent formatting, and automated references.  
 
-### 1. **Office Suite:** 
+- **Distributions**:  
+  - [TeX Live](https://www.tug.org/texlive/) (cross-platform)  
+  - [MiKTeX](https://miktex.org/) (Windows)  
+- **Editors**:  
+  - [TeXstudio](https://www.texstudio.org/)  
+  - [TeXmaker](https://www.xm1math.net/texmaker/)  
 
-Instead of looking for pirated office software, you can use Free (FOSS) alternatives to make spreadsheets, presentations, word processing (writing theses, CVs, articles, etc.). Plus, these software are secure, don't track you, or keep nagging you for payments.
+## 🛠 Version Control
 
-   - [LibreOffice](https://www.libreoffice.org/) - Writer for Word Processing, Calc for Spreadsheets, Impress for presentations, etc.
-   - [OnlyOffice - Community](https://www.onlyoffice.com/download-docs.aspx?from=office-suite#docs-community)
+### 🔄 Git & Alternatives  
+Ditch ad-hoc filenames like `Thesis_Final2.pdf`—use version control to track changes, branch experiments, and collaborate seamlessly.  
 
-### 2. **Text Processing and Presentation Program:** 
+- **[Git](https://git-scm.com/)** — The industry-standard, distributed VCS, optimized for speed and flexibility.  
+- **Alternatives**:  
+  - [Mercurial](https://www.mercurial-scm.org/)  
+  - [Bazaar](http://bazaar.canonical.com/)  
+- **Hosting**:  
+  - [GitHub](https://github.com/) (proprietary, generous free tier)  
+  - FOSS alternatives: [Codeberg](https://codeberg.org/), [Gitea](https://gitea.com/), [Forgejo](https://forgejo.org/).
 
-**LaTeX** is far superior to anything you may have been using thus far. It gives unparalleled stability and exceptional smoothness. Unlike the famous proprietary alternative, LaTeX content and pages don't go crazy and abruptly change position when adding or modifying images or tables. Another advantage for academics is that you will never have to manually write a table of content or use external software. My [CV](https://drshah.me/files/Academic_CV.pdf), theses ([UG](https://drive.proton.me/urls/QSWRXSJ8Y0#vcWKqnAsobnF) and [PG](https://drive.proton.me/urls/FARC4Q83PG#XnzkI6L6YDPG)), as well as corresponding presentations ([UG](https://drive.proton.me/urls/W2DHVV9W48#nWIkRYocnhvy), [PG](https://drive.proton.me/urls/QTKT0BSPN8#I5w2tU3TYxcI), and [PG Poster](https://drive.proton.me/urls/SCY2FG16FW#ELI9rINchSTK)), were all written in LaTeX.
+## 📧 Communication & Cloud
 
-   - Distributions:
-     - [Tex Live](https://www.tug.org/texlive/) for Linux
-     - [MiKTeX](https://miktex.org/) for Windows
-   - Integrated Writing Environment:
-     - [TexStudio](https://www.texstudio.org/)
-     - [TexMaker](https://www.xm1math.net/texmaker/)
+### 🔐 Secure Email & Storage  
+Your data should be yours alone. Proton’s end-to-end encryption ensures that no one—but you—can read your messages or files.  
 
-### 3. **File Versioning:** 
+- **[Proton](https://proton.me/)** — Email, calendar, and cloud storage with zero-access encryption and Swiss privacy protections.  
+- **Alternatives**: [Disroot](https://disroot.org/), [Tuta](https://tuta.com/).
 
-Thesis1.pdf, Thesis_Final.pdf, Final_Final.pdf, Final_Final2.pdf. Does it seem relatable? Use [Git](https://git-scm.com/) for file versioning. Keep the same file name, work on the file easily, and go back to older versions of your file when required. With Git, I personally use [GitHub](https://github.com/). One of the only a few proprietary products that I use. Git (or its alternatives) alongside GitHub (or its FOSS alternatives) are extremely helpful in collaboration, file, and code sharing. This website is published thanks to one such collaboration.
+## 🔒 Security & Privacy
 
-   - Git Alternatives:
-     - [Mercurial](https://www.mercurial-scm.org/)
-     - [Bazaar](http://bazaar.canonical.com/)
-   - GitHub Alternatives:
-     - [Codeberg](https://docs.codeberg.org/getting-started/first-steps/)
-     - [Forgejo](https://forgejo.org/)
-     - [Gitea](https://about.gitea.com/products/gitea/)
+### 🔑 Password Managers  
+Never reuse passwords—secure all accounts with a FOSS password manager.  
 
-### 4. **Email, Calendar, Cloud (Drive):** 
+- **[KeePass](https://keepass.info/)** — Lightweight, AES-256 and ChaCha20 encryption, cross-platform support via plugins.  
+- **[Bitwarden](https://bitwarden.com/open-source/)** — Fully open-source, zero-knowledge architecture, audited by third parties.  
 
-[Proton](https://proton.me/). Your email, calendar, and cloud service providers do not encrypt your material by default, infringing your privacy. As Proton describes itself best - "Proton was born in Switzerland in 2014 when a team of scientists who met at CERN decided to build a better internet where privacy is the default." Despite not being entirely open-source, Proton is widely respected and utilized in the privacy community as well as routinely audited, building trust.
+---
 
-   - Alternatives:
-     - [Disroot](https://disroot.org)
-     - [Tuta](https://tuta.com/)
-
-### 5. **Password Managers:** 
-
-Never use the same password or 8-character passwords. Rather, build a habit of using FOSS password managers.
-
-   - [KeePass](https://keepass.info/) for Android, Linux, Windows, MacOS, iPhone, as well as a browser plugin.
-   - [Bitwarden](https://bitwarden.com/pricing/) for Browser plugin
-   - [ProtonPass](https://proton.me/pass/) Since browser plugin and Apps. For now, apps are available on Windows, Android, and iOS.
-
-
-Stay tuned as I add more and more lists of software. If you want to suggest any edits to this specific page or want me to add any FOSS alternatives of any specific product, email me at: [FOSS@drshah.me](mailto:FOSS@drshah.me)
+*Want to suggest additions or see more FOSS alternatives? Email me at [FOSS@drshah.me](mailto:FOSS@drshah.me).*

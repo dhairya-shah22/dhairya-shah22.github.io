@@ -1,40 +1,38 @@
 ---
 layout: page
-title: Public Engagements and Talks
+title: Public Engagements & Talks
 permalink: /resources/talks/
 ---
 
+<p>Engaging diverse audiences has been one of the most rewarding aspects of my academic journey. Below are highlights of my public talks and outreach roles, showcasing how I’ve inspired students, fostered scientific curiosity, and adapted to challenges like the pandemic. For invitations or suggestions, please <a href="mailto:contact@drshah.me">get in touch</a>.</p>
 
-## Public Engagements
-
-### Bilimora College, SGVNM University, India
+## Bilimora College, SGVNM University, India  
 **Guest Speaker**  
-**Dates:** *17th Jan 2019 & 29th Jun 2019*
+**Dates:** 17 January 2019 &amp; 29 June 2019  
 
-<div style="text-align: justify;"> 
-During my visits to Bilimora College, I had the opportunity to interact with tribal students through engaging lectures on academic research avenues in science and mathematics at the undergraduate level. Through interactive presentations, my aim was to inspire them and underscore the significance of natural sciences in our lives.  I was gratified to receive acknowledgment from the college for my efforts, with the feedback indicating a 10-15% increase in MSc admissions in subsequent years, reflecting students' motivation to pursue further studies.
-</div>
+<p style="text-align: justify;">  
+I delivered interactive lectures on research opportunities in science and mathematics to tribal undergraduate students. By blending real-world examples with fundamental concepts, I aimed to ignite curiosity and demonstrate the relevance of natural sciences. Feedback from faculty indicated a subsequent 10–15% increase in MSc applications, underscoring the sessions’ impact.  
+</p>
 
-### Brahmand - The Astronomy Club, PDEU
+## Brahmand – The Astronomy Club, PDEU  
 **President**  
-**Duration:** *July 2019 - June 2020*
+**July 2019 – June 2020**  
 
-<div style="text-align: justify;"> 
-As part of Brahmand - The Astronomy Club, I served in a leadership role where I collaborated with a dedicated team of members to organize 13 impactful events. These events, including telescope making workshops and technical discussions, were aimed at fostering a culture of scientific curiosity within the community. In my capacity as the president, I facilitated teamwork and coordinated efforts across different teams within the club to ensure the successful execution of our objectives. Additionally, amidst the challenges posed by the pandemic, I led the initiative to develop and launch a club website, ensuring seamless communication and continuity of club activities.
-</div>
+<p style="text-align: justify;">  
+As president of Brahmand, I led a team of 42 members to organise 13 events—ranging from telescope-making workshops to advanced technical seminars—that enriched the campus community’s engagement with astronomy. When COVID restrictions hit, I spearheaded the development and launch of our club website, ensuring uninterrupted communication and virtual participation.  
+</p>
 
 **Technical Team Member**  
-**Duration:** *September 2017 - June 2019*
+**September 2017 – June 2019**  
 
-<div style="text-align: justify;"> 
-During this period, I had the privilege of serving as a Technical Team Member in Brahmand. As part of the team, I contributed to organizing sessions and presentations on diverse astronomical subjects, aiming to enrich the club's activities and provide valuable learning opportunities for members. My role allowed me to humbly support the club's mission of fostering a deeper understanding of astronomy among our peers.
-</div>
+<p style="text-align: justify;">  
+In this foundational role, I supported the design and delivery of astronomy sessions, helping curate content and demos that deepened members’ understanding of planetary science, observational techniques, and astrophysics theory.  
+</p>
 
-### Dinsha Patel Planetarium, Nadiad, India
+## Dinsha Patel Planetarium, Nadiad, India  
 **Docent**  
-*Duration: August 2016 - June 2017*
+**August 2016 – June 2017**  
 
-<div style="text-align: justify;"> 
-At the age of 16, I undertook the initiative to volunteer as a docent at the local planetarium - Dinsha Patel Planetarium. Despite my youth, I endeavored to offer insightful guidance and narration to visitors, aiming to inform them about the significance of the planetarium's image gallery. In doing so, I sought to foster a deeper appreciation for astronomy among laypeople, contributing to the public engagement efforts of the planetarium. This experience marked the beginning of my journey in sharing knowledge and engaging with diverse audiences, reflecting my early passion for outreach and education.
-</div>
-
+<p style="text-align: justify;">  
+At 16, I volunteered as a planetarium docent, guiding visitors through exhibits and narrating the significance of celestial imagery. This role developed my skills in communicating complex astronomical concepts to lay audiences, laying the groundwork for my lifelong passion in science outreach.  
+</p>

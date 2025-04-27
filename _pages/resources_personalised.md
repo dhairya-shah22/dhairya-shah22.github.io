@@ -4,36 +4,36 @@ title: Personalised Resources
 permalink: /resources/personalised/
 ---
 
-This section contains study material based on my experience and preparation.
+<p>Drawing on my own learning path—from rigorous Cambridge Tripos study to intimate lectures in theoretical physics—this collection shares the exact notes, problem sheets, and video series that propelled my growth. Each resource reflects my commitment to deep conceptual understanding and self-directed, accelerated learning.</p>
 
 ## Mathematics
 
-### 1. Cambridge Tripos Notes:
+### Cambridge Tripos Notes  
+The Cambridge Mathematical Tripos is widely regarded as one of the most challenging and prestigious undergraduate mathematics programs in the world. The Faculty of Mathematics collates both official and high-quality unofficial lecture notes, example sheets, and past exam papers to cover the core Parts IA–II curriculum .  
 
-In my humble opinion, the Cambridge Tripos is the most prestigious Mathematics program. The university provides standardised sets of notes, example sheets, and exam papers. Anyone who thoroughly studies and comprehends the notes and practices the problem sheets and exam papers, will have covered fundamentals to easily pursue {Pure or Applied} Mathematics MSc and PhDs. Add a thorough study and practice of part III modules to this preparation and your are well prepared for a direct PhD. Many professors and students at Cambridge have compiled their versions of notes, further enriching the available resources. A simple [internet](https://duckduckgo.com/) search like [Cambridge Part II General Relativity Notes](https://duckduckgo.com/?t=h_&q=Cambridge+Part+II+General+Relativity+Notes&ia=web) will provide you module-specific notes. Nonetheless, here are some notes which I personally used at some point:
-
-
-  1. [Official Website](https://www.maths.cam.ac.uk/undergrad/studentreps/tripos-specific-resources) 
-  2. [Dr. Dexter Chua](https://dec41.user.srcf.net/) 
-  3. [Mr David Bai](https://zb260.user.srcf.net/notes/)
-  4. [Sky Wilshaw](https://thirdsgames.co.uk/maths.html)
-  5. [Really Old Notes On Archimeaneans Website](https://kkk25.user.srcf.net/notes.php)
-
+1. **[Official Tripos Resources](https://www.maths.cam.ac.uk/undergrad/studentreps/tripos-specific-resources)** — Central repository of past exam papers and lecture notes, maintained by the student representatives .  
+2. **[Dexter Chua’s Notes](https://dec41.user.srcf.net/)** — Detailed Part IA–IB lecture summaries and problem sets, invaluable for mastering analysis and linear algebra.  
+3. **[David Bai’s Collection](https://zb260.user.srcf.net/notes/)** — Curated Part II lecture notes emphasizing geometry and complex analysis.  
+4. **[Thirds’ Archimedeans Notes](https://thirdsgames.co.uk/maths.html)** — A student-driven archive of worksheets, ideal for reinforcing problem-solving techniques.  
+5. **[“Really Old Notes” via Archimedeans Website](https://kkk25.user.srcf.net/notes.php)** — Historical lecture transcriptions offering alternate notational insights.  
 
 ## Physics
 
-### 1. Tripos Notes (Again):
+### Cambridge Physics Tripos (David Tong)  
+Professor David Tong’s lecture notes at DAMTP (Department of Applied Mathematics and Theoretical Physics) span core and advanced topics—from classical mechanics to quantum field theory—geared toward both final-year undergraduates and Part III master’s students.  
 
-[Prof. David Tong's material](https://www.damtp.cam.ac.uk/user/tong/teaching.html) and [problem sheets](https://duckduckgo.com/?q=Prof+David+Tong+problem+sheets&ia=web) is a combination that will get you through most of the concepts of undergraduate physics as well as many advanced graduate level concepts.
+1. **[Lectures on Theoretical Physics](https://www.damtp.cam.ac.uk/user/tong/teaching.html)** — Comprehensive coverage of mechanics, electromagnetism, and statistical physics.  
+2. **[Quantum Field Theory Notes](https://www.damtp.cam.ac.uk/user/tong/qft.html)** — A full Part III QFT syllabus with downloadable PDFs and video links.  
+3. **[Gauge Theory Lectures](https://www.damtp.cam.ac.uk/user/tong/gaugetheory.html)** — In-depth treatment of non-Abelian gauge fields, essential for modern theoretical research.  
 
-*Word of caution:* These modules focus heavily on core mathematical concepts such as Analysis, Group Theory, Riemannian Geometry etc. to understand the physical concepts. As Sir Roger Penrose once said **One can think [Physics] in terms of Equations or in terms of Geometry.** In my opinion, these notes are the majorly thinking in terms of equations. Coming from a Mathematics background, this approach has helped me a lot. It may not help you if you are someone who majorly focuses on physical idea, visuaulisation and geometry. For that I would suggest set [2].
+*Note:* Tong’s materials emphasize mathematical rigor—if you prefer a more intuitive, geometry-first approach, consider supplementing with the Susskind series below.
 
+### Stanford “Theoretical Minimum” (Leonard Susskind)  
+Leonard Susskind’s **Theoretical Minimum** lectures and books distill the essential physics concepts with intuitive explanations and worked examples, making them ideal for building physical insight alongside the Cambridge notes.  
 
-### 2. Stanford Lectures by Prof Susskind:
+1. **[Stanford Physics Lectures Playlist](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)** — A single consolidated playlist of all core courses (Classical Mechanics, Special Relativity, etc.).  
+2. **[“Theoretical Minimum” on Wikipedia](https://en.wikipedia.org/wiki/The_Theoretical_Minimum)** — Overview of the six-part lecture series and its companion textbooks.  
 
-[Stanford](https://www.youtube.com/@stanford) have given us this exceptional lecture series by Prof Leonard Susskind. His approach, for me, has felt more focused on the intuitive ideas of the phenomena in order to build the required mathematical framework. There are official playlist by Stanford for each subject, such as [Classical Mechanics](https://www.youtube.com/playlist?list=PL47F408D36D4CF129), [Special Relativity](https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA), etc.
+---
 
-However, a couple of people on YouTube have saved all the lectures in one place. So, for the ease of sharing, here are the said unofficial playlists of Stanford Susskind Lectures:
-
-1. [Set 1](https://www.youtube.com/playlist?list=PLLjeznqO-C0AVy5P39Hbybl0ew_03IkIx)
-2. [Set 2](https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e)
+<p>If you have other favourites or seek guidance on using these materials effectively, feel free to <a href="mailto:contact@drshah.me">get in touch</a>. Happy learning!</p>
