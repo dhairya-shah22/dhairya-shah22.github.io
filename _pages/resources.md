@@ -7,11 +7,6 @@ permalink: /resources/
 
 <p>Welcome! Below you’ll find a curated collection of **free and open-access materials**—from textbooks and research articles to software tools and my own notes—to support your studies in theoretical physics.</p>
 
-<!-- Search & Filter -->
-<div class="resource-search">
-  <input type="search" placeholder="Search all resources…" aria-label="Search resources">
-</div>
-
 <!-- Category Cards -->
 <div class="resource-cards">
   <div class="card">
