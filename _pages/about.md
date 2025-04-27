@@ -16,7 +16,7 @@ Welcome — I'm Dhairya. From a planetarium docent in rural India to defending m
 
 ## My Academic Journey  
 - **Imperial College London** (MSc, Applied Mathematics): Awarded Distinction; Explored electro-capillary phenomena and vortex dynamics under the guidance of Dr. Samuel Brzezicki.
-- **Pandit Deendayal Energy University** (BSc, Mathematics & Liberal Studies): Graduated with a CPI of 9.10/10 while pioneering research in fixed-point theory, fuzzy-set theory, and series of floor & ceiling functions. Maintained an unbroken record of perfect scores (10/10) in all mathematics modules across eight semesters.
+- **Pandit Deendayal Energy University** (BSc, Mathematics & Liberal Studies): Graduated with a CPI of 9.10/10. Maintained an unbroken record of perfect scores (10/10) in all mathematics modules across eight semesters while leading undergraduate research in fixed-point theory and series of Floor & Ceiling functions.
 
 ## Teaching & Past Research  
 <div style="text-align: justify;"> 

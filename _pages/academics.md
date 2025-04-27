@@ -4,12 +4,10 @@ title: Academics
 permalink: /academics/
 ---
 
-<div style="text-align: justify;"> 
-Welcome the academic section. Below is my academic journey.
-</div>
+<p>Welcome to the Academics section—your gateway to my educational background, scholarly outputs, and academic leadership roles. Explore the pages below to learn about my journey through advanced mathematics and theoretical physics.</p>
 
-- [Education](/academics/education/)
-
-- [Publications and Theses](/academics/publications/)
-
-- [Academic Engagements](/academics/engagements/)
+<ul>
+  <li><a href="/academics/education/">🎓 Education</a></li>
+  <li><a href="/academics/publications/">📚 Publications &amp; Theses</a></li>
+  <li><a href="/academics/engagements/">🔧 Academic Engagements</a></li>
+</ul>
